@@ -1,0 +1,27 @@
+_repo: To-the-Fore-with-the-Tanks_51332
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: ''
+gutenberg_issued: '2016-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: To the Fore with the Tanks!
+url: http://www.gutenberg.org/ebooks/51332
